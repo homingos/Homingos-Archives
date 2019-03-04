@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>org.homingos.archives</groupId>
-  <artifactId>data-handler</artifactId>
+  <artifactId>redirection-api</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20190304.060656</timestamp>
+      <timestamp>20190304.060709</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20190304060656</lastUpdated>
+    <lastUpdated>20190304060709</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20190304.060656-1</value>
-        <updated>20190304060656</updated>
+        <value>1.0-20190304.060709-1</value>
+        <updated>20190304060709</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20190304.060656-1</value>
-        <updated>20190304060656</updated>
+        <value>1.0-20190304.060709-1</value>
+        <updated>20190304060709</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
