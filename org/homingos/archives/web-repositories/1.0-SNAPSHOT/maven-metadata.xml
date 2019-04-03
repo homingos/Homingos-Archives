@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>org.homingos.archives</groupId>
-  <artifactId>archives</artifactId>
+  <artifactId>web-repositories</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20190403.102937</timestamp>
+      <timestamp>20190403.102952</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20190403102937</lastUpdated>
+    <lastUpdated>20190403102952</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20190403.102937-1</value>
-        <updated>20190403102937</updated>
+        <value>1.0-20190403.102952-1</value>
+        <updated>20190403102952</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
