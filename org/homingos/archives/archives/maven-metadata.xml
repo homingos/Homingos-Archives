@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.homingos.archives</groupId>
-  <artifactId>redirection-api</artifactId>
+  <artifactId>archives</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190304060709</lastUpdated>
+    <lastUpdated>20190403074854</lastUpdated>
   </versioning>
 </metadata>
